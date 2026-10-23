@@ -1,12 +1,12 @@
 {
   "compilerOptions": {
     "target": "ES6",
-    "module": "CommonJS",
+    "module": "Node16",
     "rootDir": "src",
     "outDir": "dist",
     "strict": true,
     "esModuleInterop": true,
-    "moduleResolution": "node",
+    "moduleResolution": "Node16",
     "typeRoots": ["./types", "./node_modules/@types"],
     "skipLibCheck": true,
     "resolveJsonModule": true
